@@ -1,0 +1,8 @@
+﻿  scene.cpp
+C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\scene.cpp(51,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\scene.cpp(51,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\qbVector.h(101,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\qbVector.h(100): message : while compiling class template member function 'qbVector<double>::qbVector(std::vector<double,std::allocator<double>>)'
+C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\scene.cpp(9): message : see reference to function template instantiation 'qbVector<double>::qbVector(std::vector<double,std::allocator<double>>)' being compiled
+C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\ray.hpp(18): message : see reference to class template instantiation 'qbVector<double>' being compiled
+  Ray Tracer SDL2.vcxproj -> C:\Users\agb72\OneDrive\Desktop\C++ Projects\Ray Tracer SDL2\x64\Debug\Ray Tracer SDL2.exe
